@@ -1374,7 +1374,7 @@ function RecruitSection() {
         <p className="text-lg tracking-widest mb-8 text-[#5D4E37]">Good Times, Good People, Good Day.</p>
 
           <motion.a
-            href="https://kiramu-recruit.netlify.app/"
+            href="https://menyakiramu-recruit.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-6 py-3 bg-[#FFE600] text-black border-[2.5px] border-black rounded-md shadow-[3px_3px_0_#000] text-base font-semibold tracking-wide hover:-translate-y-0.5 transition-transform"
